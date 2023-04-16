@@ -15,22 +15,22 @@ function Home() {
             <div className=''>
                 <Carousal />
             </div>
-            <div id="about" className='mt-20 py-4'>
+            <div id="about" className='md:mt-10 mt-1 py-4'>
                 <About />
             </div>
-            <div className='mt-10 py-2 px-4'>
+            <div className='md:mt-10 py-2 px-4'>
                 <Partner />
             </div>
             <div id="product" className='mt-10 py-2 px-4'>
                 <Product />
             </div>
-            <div className='mt-16 py-6'>
+            <div className='md:mt-16 max-sm:mt-2 py-6'>
                 <Quote />
             </div>
-            <div id="contact" className='mt-10 py-2 px-4'>
+            <div id="contact" className='md:mt-10 max-sm:mt-2 py-2 px-4'>
                 <Contact />
             </div>
-            <div className='mt-10 py-2 px-4'>
+            <div className='md:mt-10 max-sm:mt-2 py-2 px-4'>
                 <Footer />
             </div>
         </>

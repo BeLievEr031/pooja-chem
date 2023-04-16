@@ -9,8 +9,8 @@ function Partner() {
         <div className='p-2 mt-6 relative'>
             <h1 className='text-3xl text-center font-bold'>Our Partners</h1>
             <Hr />
-            <div className='mt-12'>
-                <Circle image={image} />
+            <div className='mt-8' >
+                <Circle image={image}/>
             </div>
         </div>
     )

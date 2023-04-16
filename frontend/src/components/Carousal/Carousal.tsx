@@ -3,9 +3,8 @@ import { Carousel } from "flowbite-react"
 
 function Carousal() {
     return (
-        <div className="h-64 sm:h-[40rem] ">
+        <div className="h-64 sm:h-[40rem] m-1">
             <Carousel
-
             >
                 <img
                     src="https://flowbite.com/docs/images/carousel/carousel-1.svg"
